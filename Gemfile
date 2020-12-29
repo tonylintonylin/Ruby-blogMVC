@@ -22,8 +22,8 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'solargraph', group: :development
-gem 'rubocop', group: :development
 
+gem 'prettier', '1.2.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
